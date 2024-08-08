@@ -2,5 +2,5 @@ top bun
 cheese
 carrot
 burger
-bacon
+stinky egg
 bottom bun
