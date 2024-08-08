@@ -1,7 +1,5 @@
 top bun
-cheese
-pudding
-carrot
-burger
-bacon
+space rocket sauce
+a human named paddy
+mars rocks
 bottom bun
